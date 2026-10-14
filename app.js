@@ -1,5 +1,5 @@
 const statusMessage = document.getElementById("status-message");
 
 if (statusMessage) {
-  statusMessage.textContent = "Hello World";
+  statusMessage.textContent = "Git assignment project loaded successfully.";
 }
