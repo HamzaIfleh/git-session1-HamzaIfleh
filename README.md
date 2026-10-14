@@ -4,7 +4,7 @@
 
 ### Github username: HamzaIfleh
 
-## Desciprion:
+## Description:
 
 This the repo for the first session's assignment of CSC 3324 git and github practical sessions.
 
